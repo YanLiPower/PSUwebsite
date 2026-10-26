@@ -1,0 +1,86 @@
+[
+  {
+    "image": "quantum-pmu.png",
+    "source": "literature/quatum/Jiang_et_al_2025_Optimal_PMU_placement.pdf",
+    "pdf_page": 4,
+    "figure": 1,
+    "crop_pdf_points": [
+      310,
+      50,
+      574,
+      220
+    ]
+  },
+  {
+    "image": "quantum-mpc.png",
+    "source": "literature/quatum/1-s2.0-S0306261924002617-main.pdf",
+    "pdf_page": 4,
+    "figure": 3,
+    "crop_pdf_points": [
+      70,
+      245,
+      255,
+      535
+    ]
+  },
+  {
+    "image": "quantum-dynamics.png",
+    "source": "literature/quatum/Communications_Engineering_revised2.pdf",
+    "pdf_page": 2,
+    "figure": 1,
+    "crop_pdf_points": [
+      62,
+      55,
+      550,
+      255
+    ]
+  },
+  {
+    "image": "ai-koopman.png",
+    "source": "literature/ai/Modularized_Bilinear_Koopman_Operator_for_Modeling_and_Predicting_Transients_of_Microgrids.pdf",
+    "pdf_page": 11,
+    "figure": 11,
+    "crop_pdf_points": [
+      49,
+      122,
+      300,
+      390
+    ]
+  },
+  {
+    "image": "ai-predictive-control.png",
+    "source": "literature/ai/Enhancing_Transient_Dynamics_Stabilization_in_Islanded_Microgrids_Through_Adaptive_and_Hierarchical_Data-Driven_Predictive_Droop_Control.pdf",
+    "pdf_page": 4,
+    "figure": 1,
+    "crop_pdf_points": [
+      55,
+      50,
+      556,
+      389
+    ]
+  },
+  {
+    "image": "ai-manifold.png",
+    "source": "literature/ai/ICLR-2025-learning-vector-fields-of-differential-equations-on-manifolds-with-geometrically-constrained-operator-valued-kernels-Paper-Conference.pdf",
+    "pdf_page": 6,
+    "figure": 2,
+    "crop_pdf_points": [
+      324,
+      290,
+      506,
+      394
+    ]
+  },
+  {
+    "image": "cps-qkd.png",
+    "source": "literature/cps/Securing_SDN_Communication_through_Quantum_Key_Distribution.pdf",
+    "pdf_page": 2,
+    "figure": 1,
+    "crop_pdf_points": [
+      55,
+      340,
+      305,
+      562
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+---
+title: "News"
+---
+
+
+## 2024
+
+- 08/2024\
+  --- Jianing finished his comprehensive exam. *Congratulations!*\
+  --- Joseph Lange joined our team. *Welcome!*
+- 07/2024\
+  --- Dr. Li organized the first quantum task force meeting at the 2024 PES General Meeting. Thank all the participants for their interest and great discussion!
+- 05/2024\
+  --- Andrew Smith finished his master program and will join the Naval Surface Warfare Center. *Congratulations!*\
+  --- Apoorva Nandakumar finished her Ph.D. program and will join Tesla, Inc. *Congratulations!*
+
+## 2023
+
+- 11/2023\
+  --- Dr. Li was invited to give a talk on her quantum research at the 2023 NSF Workshop on Quantum Applications.
+- 10/2023\
+  --- Dr. Li was invited to give a talk on her quantum research at the 2023 NSF-Sponsored Climate, Sustainability & Quantum Computing Workshop.\
+  --- Dr. Li participated in the LOI signing of [Penn State & UVES program](https://www.linkedin.com/feed/update/urn:li:activity:7115749303465234432/){target="_blank" rel="noopener"}. *Congratulations!*
+- 09/2023\
+  --- Dr. Li was invited to give two talks on her quantum research at the 2023 IEEE Quantum Week.
+- 08/2023\
+  --- Yuqi Jiang joined our team. *Welcome!*
+- 07/2023\
+  --- Dr. Li was elected to the Secretary position of the IEEE PES PEEC research subcommittee. *Truly grateful for the recognition and support of the PES community!*\
+  --- Dr. Li was invited to give a talk on her quantum research at the 2023 PES General Meeting.
+- 06/2023\
+  --- Dr. Li served as a mentor for the ITEC 2023 PELS Mentorship Luncheon. *Truly grateful to the ITEC organizing committee for this opportunity!*\
+  --- Hanyang He joined our team. *Welcome!*
+- 05/2023\
+  --- Dr. Li has been appointed as the holder of the Charles H. Fetter University Endowed Fellowship in Electrical Engineering. *Truly grateful to Penn State for the strong support and recognition!*\
+  --- Andrew Smith started his internship with Naval Surface Warfare Center. *Congratulations!*\
+  --- Brian Nguyen finished his master program and will join the Applied Physics Laboratory at Johns Hopkins University. *Congratulations!*\
+  --- Lixian Yan finished her internship with Dr. Li and will start her master program at Stanford University. *Congratulations!*\
+  --- Apoorva's [learning paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10115474){target="_blank" rel="noopener"} got published in IEEE Transactions on Sustainable Energy. *Congratulations!*
+- 04/2023\
+  --- We received a credit donation from AWS to develop quantum algorithms for power systems. *Thank AWS and QuEra!*\
+  --- Dr. Li gave a presentation at an ECE seminar of Clarkson University. Thanks for Prof. Leo Jiang's invitation.
+- 02/2023\
+  --- Our [quantum paper](https://www.nature.com/articles/s44172-023-00061-8.pdf){target="_blank" rel="noopener"} got published in Communications Engineering, a journal from Nature portfolio. *Congratulations!*
+- 01/2023\
+  --- Dr. Li was invited by Los Alamos National Lab to give a talk on her quantum research in the 2023 Grid Science Winter School and Conference.\
+  --- Jianing Chen joined our team. *Welcome!*
+
+## 2022
+
+- 12/2022\
+  --- Xinyuan finished his comprehensive exam. *Congratulations!*\
+  --- Our NSF AMPS project was featured in the [COE News](https://news.engr.psu.edu/2022/li-yan-address-new-challenges-in-power-grid.aspx) of Penn State.
+- 11/2022\
+  --- Our ONR quantum project was featured in the [COE News](https://news.engr.psu.edu/2022/li-yan-quantum-computing-renewable-power.aspx){target="_blank" rel="noopener"} of Penn State.\
+  --- Dr. Li gave a presentation on energy integration in cyber-physical microgrids on the EE Research Night organized by HKN, which is the honors society of IEEE.\
+  --- Fanfu Wu finished his master program. *Congratulations!*
+- 10/2022\
+  --- Dr. Li gave a presentation titled "Modularized Data-Driven Modeling for Transient Dynamics of Networked Microgrids" together with Dr. Daning Huang on 2022 INFORMS Annual Meeting.\
+  --- Our quantum paper was presented in 2022 IEEE Energy Conversion Congress and Exposition.\
+  --- Dr. Li gave a tutorial titled "Emerging Cybersecurity Challenges in Modern Energy Systems" together with Dr. Subham Sahoo and Dr. Charalambos Konstantinou on 2022 IEEE Energy Conversion Congress and Exposition.
+- 08/2022\
+  --- We got funded by the NSF AMPS program to develop data-driven modeling and control methods for power systems. *Thank NSF!*\
+  --- Andrew Smith started his master program at EE department. *Welcome!*
+- 07/2022\
+  --- Dr. Li gave a presentation and demonstration on energy and electricity on 2022 APOGEE Summer camp.\
+  --- Dr. Li gave a presentation titled "Data-Driven Modeling of Microgrids with High Penetration of Power Electronics-Interfaced DERs" on 2022 IEEE PES General Meeting.\
+  --- Five papers were presented in 2022 IEEE PES General Meeting.\
+  --- Zhiran Li finished his master program. *Congratulations!*
+- 06/2022\
+  --- We got funded by ONR to develop quantum algorithms for power systems. Very excited to explore this new field. *Thank ONR!*\
+  --- Three papers (one on quantum and two on SDN) were presented in 2022 IEEE Transportation Electrification Conference \&amp; Expo.
+- 05/2022\
+  --- Ethan Liu graduated successfully and joined KMPG. *Congratulations!*\
+  --- Justin Michael Szatkowski graduated successfully and joined Barry Wehmiller Design Group. *Congratulations!*\
+  --- Pierce Jack McKelvey graduated successfully. *Congratulations!*\
+  --- Andrew Smith graduated successfully. *Congratulations!*\
+  --- Brian Nguyen started his intern with Johns Hopkins University Applied Physics Laboratory. *Congratulations!*
+
+ 

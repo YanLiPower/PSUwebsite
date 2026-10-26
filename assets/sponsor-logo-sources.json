@@ -1,0 +1,21 @@
+{
+  "checked_on": "2026-10-16",
+  "afrl": {
+    "file": "afrl-logo.jpg",
+    "official_source": "https://www.dvidshub.net/image/8347730/afrl-primary-logos",
+    "image_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2404/8347730/1000w_q95.jpg",
+    "brand_reference": "https://www.afrl.af.mil/Portals/90/Documents/PA/2024_AFRL_BRAND_BOOK_FINAL_28MAR24.pdf"
+  },
+  "eaton": {
+    "file": "eaton-logo.png",
+    "official_source": "https://www.eaton.com/us/en-us/company/research-and-development.html",
+    "image_url": "https://www.eaton.com.cn/content/dam/eaton/global/logos/eaton-logo-small.png",
+    "note": "Eaton corporate logo used for Eaton Research Labs. Downloaded from Eaton's official China domain; the US site references the same asset path."
+  },
+  "arc": {
+    "file": "arc-logo.svg",
+    "official_source": "https://www.arc.gov/",
+    "image_url": "https://www.arc.gov/wp-content/themes/arc/images/arc-logo.svg",
+    "checked_on": "2026-10-19"
+  }
+}

@@ -6,7 +6,7 @@ format:
     html-math-method: katex
 ---
 
-The research group explores new approaches to modeling, computation, and control of dynamical systems, with modern power systems serving as a key application domain. Our research brings together quantum computing, artificial intelligence, and secure communications to support reliable, adaptable grids with increasingly diverse energy resources.
+The Quantum and Intelligent Energy Systems Lab (QIES) explores new approaches to modeling, computation, and control of dynamical systems, with modern power systems serving as a key application domain. Our research brings together quantum computing, artificial intelligence, and secure communications to support reliable, adaptable grids with increasingly diverse energy resources.
 
 ## Quantum Computing for Power Systems
 

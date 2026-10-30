@@ -1,12 +1,12 @@
 ---
-title: "Energy and Microgrid Power Lab"
-subtitle: "Welcome to the EMPower Research Group"
+title: "Quantum and Intelligent Energy Systems Laboratory"
+subtitle: "Advancing dynamical systems through quantum computing, artificial intelligence, and cyber-physical security."
 format:
   html:
     html-math-method: katex
 ---
 
-The EMPower Research Group explores new approaches to modeling, computation, and control for modern power systems. Our research brings together quantum computing, artificial intelligence, and secure communications to support reliable, adaptable grids with increasingly diverse energy resources.
+The research group explores new approaches to modeling, computation, and control of dynamical systems, with modern power systems serving as a key application domain. Our research brings together quantum computing, artificial intelligence, and secure communications to support reliable, adaptable grids with increasingly diverse energy resources.
 
 ## Quantum Computing for Power Systems
 

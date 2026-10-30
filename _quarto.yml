@@ -8,11 +8,11 @@ project:
     - literature/**/*.pdf
 
 website:
-  title: "Energy and Microgrid Power Lab"
-  description: "Welcome to the EMPower Research Group at Penn State."
+  title: "Quantum and Intelligent Energy Systems Lab"
+  description: "Advancing dynamical systems through quantum computing, artificial intelligence, and cyber-physical security"
   search: false
   navbar:
-    title: "EMPower Lab"
+    title: "QIES Lab"
     logo: assets/21d3eb32-PSU_Mark_1.png
     logo-alt: "Penn State"
     background: "#ffffff"
